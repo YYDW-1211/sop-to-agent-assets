@@ -1,0 +1,6 @@
+interface:
+  display_name: "SOP 智能体资产拆解"
+  short_description: "逐项澄清业务边界，拆解三类资产，标记 AI 提效机会与待解决项"
+  default_prompt: "使用 $sop-to-agent-assets，将我的 SOP 拆解为智能体设计可复用资产。"
+policy:
+  allow_implicit_invocation: true
